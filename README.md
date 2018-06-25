@@ -1,4 +1,4 @@
-# sample-git-for-pluralsight
+# Welcome to sample-git-for-pluralsight
 
 
-This is just a test
+This is just a test :-)
